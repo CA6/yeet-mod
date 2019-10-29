@@ -1,0 +1,18 @@
+{
+	"type": "groundUnit",
+	"name": "ground yeet",
+	"description": "Generally annoying and explosive.",
+	"speed": 1.5,
+	"flying": false,
+	"health": 500,
+	"engineOffset": 5.5,
+	"range": 60,
+	"weapon": {
+		"name": "blast cannon",
+		"length": 1.5,
+		"reload": 4,
+		"alternate": true,
+		"bullet": "blastcompund"
+	}
+  
+}
