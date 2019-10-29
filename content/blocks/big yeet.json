@@ -1,0 +1,12 @@
+{
+	"name": "wall of yeet",
+	"description": "A wall made pure yeet",
+	"type": "Wall",
+	"health": 600000,
+	"size": 2,
+	"requirements": [
+		{ "item": "yeetium", "amount": 50 }
+	],
+	"category": "defense",
+	"research": "plastium"
+}
