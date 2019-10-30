@@ -12,7 +12,7 @@
 		"length": 1.5,
 		"reload": 4,
 		"alternate": true,
-		"bullet": "blastcompund"
+		"bullet": "artilleryExplosive"
 	}
   
 }
